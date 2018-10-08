@@ -4,4 +4,4 @@ end
 
 say_hello
 
-say_hello "Garbriela!"
+say_hello Garbriela!
